@@ -51,4 +51,6 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 ### 📚 License
 
 This project is licensed under the MIT License. Feel free to use, share, and modify.
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Decision_Tree)
+![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Decision_Tree)
